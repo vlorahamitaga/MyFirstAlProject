@@ -1,2 +1,0 @@
-# MyFirstAlProject
-Business Central
